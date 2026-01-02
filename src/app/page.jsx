@@ -11,7 +11,7 @@ export default function hello() {
         descColor="text-[#f57878]"
       />
       <Bye
-        img="/Profile.svg"
+        img="/unnamed.jpg"
         name="Orgil"
         desc="Bye world"
         scores="638"
@@ -20,7 +20,7 @@ export default function hello() {
         descColor="text-[#929292]"
       />
       <Bye
-        img="/Profile.svg"
+        img="/lebron.jpg"
         name="Lebron"
         desc="Basketball"
         scores={6383}
@@ -39,7 +39,7 @@ const Bye = (props) => {
         className={`flex flex-col items-center w-70 h-119.75 pt-2 rounded-[40px] border border-transparent ${props.themeColor} opacity-95`}
       >
         <img
-          className="w-66 h-70 rounded-4xl  bg-center bg-contain bg-no-repeat"
+          className="w-66 h-70 rounded-4xl  object-cover object-center"
           src={props.img}
           alt="profile"
         />

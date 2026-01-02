@@ -39,6 +39,8 @@
     --spacing: .25rem;
     --text-5xl: 3rem;
     --text-5xl--line-height: 1;
+    --text-8xl: 6rem;
+    --text-8xl--line-height: 1;
     --font-weight-normal: 400;
     --font-weight-medium: 500;
     --radius-4xl: 2rem;
@@ -304,8 +306,16 @@
 @layer components;
 
 @layer utilities {
+  .contents {
+    display: contents;
+  }
+
   .flex {
     display: flex;
+  }
+
+  .inline {
+    display: inline;
   }
 
   .h-11 {
@@ -376,6 +386,10 @@
     gap: calc(var(--spacing) * 7);
   }
 
+  .gap-10 {
+    gap: calc(var(--spacing) * 10);
+  }
+
   .rounded-4xl {
     border-radius: var(--radius-4xl);
   }
@@ -434,6 +448,14 @@
     background-repeat: no-repeat;
   }
 
+  .object-cover {
+    object-fit: cover;
+  }
+
+  .object-center {
+    object-position: center;
+  }
+
   .px-5 {
     padding-inline: calc(var(--spacing) * 5);
   }
@@ -469,6 +491,11 @@
   .text-5xl {
     font-size: var(--text-5xl);
     line-height: var(--tw-leading, var(--text-5xl--line-height));
+  }
+
+  .text-8xl {
+    font-size: var(--text-8xl);
+    line-height: var(--tw-leading, var(--text-8xl--line-height));
   }
 
   .text-\[14px\] {
