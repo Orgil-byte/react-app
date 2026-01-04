@@ -43,6 +43,11 @@ function main() {
                 fileName: "[project]/src/app/es6/page.jsx",
                 lineNumber: 6,
                 columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(FruitList, {}, void 0, false, {
+                fileName: "[project]/src/app/es6/page.jsx",
+                lineNumber: 7,
+                columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
@@ -59,7 +64,7 @@ const Double = (prop)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$proj
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/es6/page.jsx",
-        lineNumber: 12,
+        lineNumber: 13,
         columnNumber: 26
     }, ("TURBOPACK compile-time value", void 0));
 // **Task:** Given an array `const drinks = ['Coffee', 'Tea', 'Water']`, use `.map()` to render them as a numbered list (`<ol>`).
@@ -76,12 +81,12 @@ const Drink = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5
                 ]
             }, index, true, {
                 fileName: "[project]/src/app/es6/page.jsx",
-                lineNumber: 20,
+                lineNumber: 21,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)))
     }, void 0, false, {
         fileName: "[project]/src/app/es6/page.jsx",
-        lineNumber: 18,
+        lineNumber: 19,
         columnNumber: 3
     }, ("TURBOPACK compile-time value", void 0));
 // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
@@ -101,9 +106,28 @@ const Car = ({ brand, model, year })=>/*#__PURE__*/ (0, __TURBOPACK__imported__m
         ]
     }, void 0, true, {
         fileName: "[project]/src/app/es6/page.jsx",
-        lineNumber: 28,
+        lineNumber: 29,
         columnNumber: 3
-    }, ("TURBOPACK compile-time value", void 0)); // **Task:** You have a list `const fruit = ['apple', 'banana']`. Create a new array `allFruits` that uses the spread operator to add `'cherry'` to the end of the existing `fruit` list.
+    }, ("TURBOPACK compile-time value", void 0));
+// **Task:** You have a list `const fruit = ['apple', 'banana']`. Create a new array `allFruits` that uses the spread operator to add `'cherry'` to the end of the existing `fruit` list.
+const fruit = [
+    "apple",
+    "banana"
+];
+const allFruits = [
+    ...fruit,
+    "cherry"
+];
+const FruitList = ()=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        children: [
+            "4/ ",
+            allFruits
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/app/es6/page.jsx",
+        lineNumber: 36,
+        columnNumber: 25
+    }, ("TURBOPACK compile-time value", void 0)); // **Task:** Create a file `utils.js` that exports a constant `API_URL`. Import it into a component in `App.js` and display the URL in a `<p>` tag.
 }),
 "[project]/src/app/es6/page.jsx [app-rsc] (ecmascript, Next.js Server Component)", ((__turbopack_context__) => {
 

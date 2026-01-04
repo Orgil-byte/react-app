@@ -1,802 +1,192 @@
-[00:00:00.463] Server  LOG     ✓ Ready in 293ms
-[00:00:01.680] Server  ERROR   Each child in a list should have a unique "key" prop.
+[00:00:01.190] Server  LOG     ✓ Ready in 822ms
+[00:00:03.093] Server  LOG     {}
+[00:00:03.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:17.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:01.068] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:00:01.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:02.314] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
+[00:07:01.068] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <ul>. 
-[00:00:04.298] Server  LOG     {}
-[00:00:04.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.932] Server  ERROR   Each child in a list should have a unique "key" prop.
+the name `App` is defined multiple times
+[00:07:04.160] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:00:09.993] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.993] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
 
-Check the top-level render call using <ul>. 
-[00:01:28.252] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:01:28.310] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+[00:07:04.285] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:01:29.658] Server  ERROR   Each child in a list should have a unique "key" prop.
+the name `App` is defined multiple times
+[00:07:04.424] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:01:29.721] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:29.721] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:01:53.602] Server  ERROR   Each child in a list should have a unique "key" prop.
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:01:53.671] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:53.671] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+[00:07:04.665] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:01:53.804] Server  ERROR   Each child in a list should have a unique "key" prop.
+the name `App` is defined multiple times
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:01:53.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:53.865] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:02:13.266] Server  ERROR   Each child in a list should have a unique "key" prop.
+[00:07:04.865] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:02:13.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:13.339] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:02:13.445] Server  ERROR   Each child in a list should have a unique "key" prop.
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:02:13.497] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:13.497] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+[00:07:05.031] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:02:13.737] Server  ERROR   Each child in a list should have a unique "key" prop.
+the name `App` is defined multiple times
+[00:07:05.044] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:02:13.798] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:13.798] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:02:21.320] Server  ERROR   Each child in a list should have a unique "key" prop.
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:02:21.382] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:21.382] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+[00:07:05.135] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:02:21.512] Server  ERROR   Each child in a list should have a unique "key" prop.
+the name `App` is defined multiple times
+[00:07:05.232] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
 
-Check the top-level render call using <li>. See https://react.dev/link/warning-keys for more information.
-[00:02:21.567] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:21.567] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+the name `App` is defined multiple times
 
-Check the render method of `ul`.  It was passed a child from Color.
-[00:08:09.686] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:09.788] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:08:10.038] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:13:16.872] Server  LOG     {}
-[00:13:16.978] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:13:19.593] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:28:39.491] Server  LOG     {}
-[00:29:51.651] Server  LOG     {}
-[00:30:34.311] Browser ERROR   ./src/app/es6/page.jsx:35:32
+
+[00:07:05.526] Server  ERROR   ⨯ ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
+
+the name `App` is defined multiple times
+
+
+[00:07:05.637] Browser ERROR   uncaughtError: Error: ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
+
+the name `App` is defined multiple times
+
+
+[00:07:05.803] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
+
+the name `App` is defined multiple times
+[00:07:05.804] Browser ERROR   ./src/app/es6/page.jsx:43:7
+Ecmascript file had an error
+  41 | import { API_URL } from "./utils";
+  42 |
+> 43 | const App = () => <p>5/ {API_URL}</p>;
+     |       ^^^
+  44 |
+
+the name `App` is defined multiple times
+[00:07:44.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:47.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:11.532] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:11.758] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:24.042] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:24.230] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:55.068] Browser ERROR   ./src/app/es6/page.jsx:9:15
 Parsing ecmascript source code failed
-  33 |
-  34 | // ```javascript
-> 35 | // const Welcome = ({ name }) => {
-     |                                ^
-  36 | //   const handleClick = () => console.log("Clicked!");
-  37 |
-  38 | //   return <button onClick={handleClick}>Hello {name}</button>;
+   7 |       <FruitList />
+   8 |       <App />
+>  9 |       <Stock {stock}/>
+     |               ^^^^^
+  10 |     </div>
+  11 |   );
+  12 | }
 
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:30:34.311] Browser ERROR   ./src/app/es6/page.jsx:35:32
+Expected '</', got 'stock'
+[00:16:30.872] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:42.591] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:22.069] Browser ERROR   ./src/app/es6/page.jsx:50:1
 Parsing ecmascript source code failed
-  33 |
-  34 | // ```javascript
-> 35 | // const Welcome = ({ name }) => {
-     |                                ^
-  36 | //   const handleClick = () => console.log("Clicked!");
-  37 |
-  38 | //   return <button onClick={handleClick}>Hello {name}</button>;
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:30:34.311] Browser ERROR   ./src/app/es6/page.jsx:35:32
-Parsing ecmascript source code failed
-  33 |
-  34 | // ```javascript
-> 35 | // const Welcome = ({ name }) => {
-     |                                ^
-  36 | //   const handleClick = () => console.log("Clicked!");
-  37 |
-  38 | //   return <button onClick={handleClick}>Hello {name}</button>;
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:30:34.311] Browser ERROR   ./src/app/es6/page.jsx:35:32
-Parsing ecmascript source code failed
-  33 |
-  34 | // ```javascript
-> 35 | // const Welcome = ({ name }) => {
-     |                                ^
-  36 | //   const handleClick = () => console.log("Clicked!");
-  37 |
-  38 | //   return <button onClick={handleClick}>Hello {name}</button>;
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:31:17.309] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-> 24 | // ```
-     | ^
-> 25 |
-     | ^
-> 26 | // **Task:** Given an array `const drinks = ['Coffee', 'Tea', 'Water']`, use `.map()` to render them as a numbered list (`<ol>`).
-     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  27 |
-  28 | // ---
-  29 |
-
-Expected '</', got 'jsx text (;
-
-// ```
-
-// **Task:** Given an array `const drinks = ['Coffee', 'Tea', 'Water']`, use `.map()` to render them as a numbered list (`)'
-[00:31:17.309] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-> 24 | // ```
-     | ^
-> 25 |
-     | ^
-> 26 | // **Task:** Given an array `const drinks = ['Coffee', 'Tea', 'Water']`, use `.map()` to render them as a numbered list (`<ol>`).
-     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  27 |
-  28 | // ---
-  29 |
-
-Expected '</', got 'jsx text (;
-
-// ```
-
-// **Task:** Given an array `const drinks = ['Coffee', 'Tea', 'Water']`, use `.map()` to render them as a numbered list (`)'
-[00:31:23.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:23.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:23.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:23.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:57.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:57.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:57.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:31:57.310] Browser ERROR   ./src/app/es6/page.jsx:20:56
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = (prop) => <p><span>{prop * 2}<span/></p>;
-     |                                                        ^
-> 21 |
-     | ^
-> 22 |
-     | ^
-> 23 |
-     | ^
-
-Expected '</', got 'jsx text (;
-
-)'
-[00:33:44.310] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:44.310] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:45.311] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:45.311] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:45.312] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:45.312] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2))
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got '<eof>'
-[00:33:48.311] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:33:48.312] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:33:48.312] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:33:48.312] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:33:49.311] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:33:49.311] Browser ERROR   ./src/app/es6/page.jsx:20:50
-Parsing ecmascript source code failed
-  18 | // **Task:** Create an arrow function component called `Double` that accepts a `number` prop and returns the result of the number multiplied by 2 inside a `<span>`.
-  19 |
-> 20 | const double = ((prop => prop.map((num)=> num*2));
-     |                                                  ^
-  21 |
-  22 |
-  23 |
-
-Expected ',', got ';'
-[00:35:07.691] Server  LOG     {}
-[00:36:09.310] Browser ERROR   ./src/app/es6/page.jsx:21:33
-Parsing ecmascript source code failed
-  19 |
-  20 | const double = (prop) => {
-> 21 |   return <span> prop.map((num) => {
-     |                                 ^
-  22 |     return num * 2;
-  23 |   });</span>
-  24 | };
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:36:09.311] Browser ERROR   ./src/app/es6/page.jsx:21:33
-Parsing ecmascript source code failed
-  19 |
-  20 | const double = (prop) => {
-> 21 |   return <span> prop.map((num) => {
-     |                                 ^
-  22 |     return num * 2;
-  23 |   });</span>
-  24 | };
-
-Unexpected token. Did you mean `{'>'}` or `&gt;`?
-[00:36:18.636] Server  LOG     {}
-[00:38:19.004] Server  LOG     {}
-[00:39:49.342] Server  LOG     {}
-[00:39:49.403] Server  ERROR   ⨯ ReferenceError: Double is not defined
-[00:39:50.311] Browser ERROR   uncaughtError: ReferenceError: Double is not defined
-[00:40:08.470] Server  LOG     {}
-[00:40:08.632] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:40:26.205] Server  LOG     {}
-[00:40:31.409] Server  LOG     {}
-[00:40:34.262] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:41:59.109] Server  LOG     {}
-[00:42:04.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:42:04.925] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:42:05.109] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:42:05.369] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:44:43.279] Server  LOG     {}
-[00:44:47.745] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:44:47.880] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:44:48.046] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:47:44.681] Server  LOG     {}
-[00:47:44.742] Server  ERROR   ⨯ TypeError: prop.map is not a function
-[00:47:45.310] Browser ERROR   uncaughtError: TypeError: prop.map is not a function
-[00:49:02.067] Server  LOG     {}
-[00:49:02.073] Server  LOG     ✓ Compiled in 10ms
-[00:49:02.140] Server  ERROR   ⨯ TypeError: prop.map is not a function
-[00:49:02.291] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:49:03.313] Browser ERROR   uncaughtError: TypeError: prop.map is not a function
-[00:49:41.316] Server  LOG     {}
-[00:49:41.454] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:49:44.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:49:44.527] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:49:44.757] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:23.164] Server  LOG     {}
-[00:50:43.544] Server  LOG     {}
-[00:50:46.337] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:46.468] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:46.683] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:49.361] Server  LOG     {}
-[00:50:52.843] Server  LOG     {}
-[00:50:55.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:50:55.949] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:51:25.453] Server  LOG     {}
-[00:51:34.874] Server  LOG     {}
-[00:51:37.427] Server  LOG     {}
-[00:51:47.717] Server  LOG     {}
-[00:51:55.171] Server  LOG     {}
-[00:52:03.625] Server  LOG     {}
-[00:52:07.595] Server  LOG     {}
-[00:52:27.271] Server  LOG     {}
-[00:53:58.821] Server  LOG     {}
-[00:54:26.151] Server  LOG     {}
-[00:55:52.067] Server  LOG     {}
-[00:55:57.357] Server  LOG     {}
-[00:56:35.594] Server  LOG     {}
-[00:56:35.648] Server  ERROR   ⨯ ReferenceError: name is not defined
-[00:56:36.312] Browser ERROR   uncaughtError: ReferenceError: name is not defined
-[00:59:46.652] Server  LOG     {}
-[00:59:46.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:01:26.310] Browser ERROR   ./src/app/es6/page.jsx:23:70
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                      ^
-  24 |
-
-Expected a semicolon
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:75
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                           ^
-  24 |
+  48 |
+  49 |
+> 50 | **Task:** Create a component that takes a `theme` prop (e.g., "dark" or "light"). Use a template string to set a `className` like: `className={`container-${theme}`}`.
+     | ^^
+  51 | const ThemeContainer = ({ theme }) => (
+  52 |   <div className={`container-${theme}`}>This is the {theme} theme.</div>
+  53 | );
 
 Expression expected
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:76
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                            ^^^^^^
-  24 |
-
-Unterminated regexp literal
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:70
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                      ^
-  24 |
-
-Expected a semicolon
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:75
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                           ^
-  24 |
-
-Expression expected
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:76
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                            ^^^^^^
-  24 |
-
-Unterminated regexp literal
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:70
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                      ^
-  24 |
-
-Expected a semicolon
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:75
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                           ^
-  24 |
-
-Expression expected
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:76
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                            ^^^^^^
-  24 |
-
-Unterminated regexp literal
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:70
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                      ^
-  24 |
-
-Expected a semicolon
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:75
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                           ^
-  24 |
-
-Expression expected
-[01:01:26.311] Browser ERROR   ./src/app/es6/page.jsx:23:76
-Parsing ecmascript source code failed
-  21 | );
-  22 | // **Task:** You have an object `const car = { brand: 'Tesla', model: 'Model 3', year: 2023 }`. Create a component that destructures these values in the function argument and displays them in a `<div>`.
-> 23 | const User = (brand, model, year) => {let {brand, model, year} = car}<div></div>;
-     |                                                                            ^^^^^^
-  24 |
-
-Unterminated regexp literal
-[01:02:27.888] Server  LOG     {}
-[01:02:27.953] Server  ERROR   ⨯ ReferenceError: User is not defined
-[01:02:28.312] Browser ERROR   uncaughtError: ReferenceError: User is not defined
-[01:03:22.766] Server  LOG     {}
-[01:03:22.826] Server  ERROR   ⨯ ReferenceError: User is not defined
-[01:03:22.988] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:03:23.316] Browser ERROR   uncaughtError: ReferenceError: User is not defined
-[01:04:06.188] Server  LOG     {}
-[01:04:06.215] Server  LOG     ✓ Compiled in 21ms
-[01:04:06.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:04:53.932] Server  LOG     {}
-[01:05:23.314] Browser ERROR   ./src/app/es6/page.jsx:26:5
-Parsing ecmascript source code failed
-  24 | let { brand, model, year } = car;
-  25 | const User = ({ name, location }) => (
-> 26 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  27 | let { brand, model, year } = car;
-  28 |   <div>
-  29 |     {name} lives in {location}
-
-Expression expected
-[01:05:23.317] Browser ERROR   ./src/app/es6/page.jsx:26:5
-Parsing ecmascript source code failed
-  24 | let { brand, model, year } = car;
-  25 | const User = ({ name, location }) => (
-> 26 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  27 | let { brand, model, year } = car;
-  28 |   <div>
-  29 |     {name} lives in {location}
-
-Expression expected
-[01:05:27.310] Browser ERROR   ./src/app/es6/page.jsx:25:5
-Parsing ecmascript source code failed
-  23 |
-  24 | const User = ({ name, location }) => (
-> 25 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  26 | let { brand, model, year } = car;
-  27 |   <div>
-  28 |     {name} lives in {location}
-
-Expression expected
-[01:05:27.310] Browser ERROR   ./src/app/es6/page.jsx:25:5
-Parsing ecmascript source code failed
-  23 |
-  24 | const User = ({ name, location }) => (
-> 25 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  26 | let { brand, model, year } = car;
-  27 |   <div>
-  28 |     {name} lives in {location}
-
-Expression expected
-[01:05:46.310] Browser ERROR   ./src/app/es6/page.jsx:25:5
-Parsing ecmascript source code failed
-  23 |
-  24 | const User = ({car}) => (
-> 25 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  26 |     let { brand, model, year } = car;
-  27 |   <div>
-  28 |     {name} lives in {location}
-
-Expression expected
-[01:05:46.311] Browser ERROR   ./src/app/es6/page.jsx:25:5
-Parsing ecmascript source code failed
-  23 |
-  24 | const User = ({car}) => (
-> 25 |     const car = { brand: "Tesla", model: "Model 3", year: 2023 };
-     |     ^^^^^
-  26 |     let { brand, model, year } = car;
-  27 |   <div>
-  28 |     {name} lives in {location}
-
-Expression expected
-[01:06:52.155] Server  LOG     {}
-[01:07:15.107] Server  LOG     {}
-[01:07:23.333] Server  LOG     {}
-[01:08:01.693] Server  LOG     {}
-[01:08:01.743] Server  ERROR   ⨯ ReferenceError: name is not defined
-[01:08:02.312] Browser ERROR   uncaughtError: ReferenceError: name is not defined
-[01:09:46.314] Server  LOG     {}
-[01:09:46.320] Server  LOG     ✓ Compiled in 17ms
-[01:09:46.383] Server  ERROR   ⨯ ReferenceError: User is not defined
-[01:09:46.507] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:09:47.313] Browser ERROR   uncaughtError: ReferenceError: User is not defined
-[01:10:17.177] Server  LOG     {}
-[01:10:17.183] Server  LOG     ✓ Compiled in 13ms
-[01:10:17.243] Server  ERROR   ⨯ ReferenceError: User is not defined
-[01:10:17.324] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:10:18.310] Browser ERROR   uncaughtError: ReferenceError: User is not defined
-[01:10:38.370] Server  LOG     {}
-[01:10:38.392] Server  LOG     ✓ Compiled in 16ms
-[01:10:38.460] Server  ERROR   ⨯ ReferenceError: Drink is not defined
-[01:10:38.562] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:10:39.315] Browser ERROR   uncaughtError: ReferenceError: Drink is not defined
-[01:10:42.875] Server  LOG     {}
-[01:10:42.932] Server  ERROR   ⨯ ReferenceError: Drink is not defined
-[01:10:43.007] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:10:43.317] Browser ERROR   uncaughtError: ReferenceError: Drink is not defined
-[01:11:05.795] Server  LOG     {}
-[01:11:05.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:11:15.011] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:11:15.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:11:15.419] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:11:30.697] Server  LOG     {}
-[01:11:39.201] Server  LOG     {}
-[01:12:22.040] Server  LOG     {}
-[01:12:29.436] Server  LOG     {}
-[01:13:23.741] Server  LOG     {}
-[01:13:28.753] Server  LOG     {}
-[01:13:42.051] Server  LOG     {}
-[01:13:47.826] Server  LOG     {}
-[01:14:05.311] Server  LOG     {}
-[01:14:17.041] Server  LOG     {}
-[01:15:13.799] Server  LOG     {}
-[01:16:37.311] Browser ERROR   ./src/app/es6/page.jsx:36:19
-Parsing ecmascript source code failed
-  34 | const fruit = ['apple', 'banana']
-  35 |
-> 36 | const Fruit = ()=>()
-     |                   ^^
-
-Parenthesized expression cannot be empty
-[01:16:37.312] Browser ERROR   ./src/app/es6/page.jsx:36:19
-Parsing ecmascript source code failed
-  34 | const fruit = ['apple', 'banana']
-  35 |
-> 36 | const Fruit = ()=>()
-     |                   ^^
-
-Parenthesized expression cannot be empty
-[01:16:40.793] Server  LOG     {}
-[01:18:24.082] Server  LOG     {}
-[01:18:31.948] Server  LOG     {}
-[01:18:40.873] Server  LOG     {}
-[01:18:44.425] Server  LOG     {}
-[01:21:24.949] Server  LOG     {}
-[01:21:25.064] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:21:25.095] Server  LOG     {}
-[01:21:25.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:21:25.292] Server  LOG     {}
-[01:21:25.362] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:24:35.601] Server  LOG     {}
-[01:26:37.964] Server  LOG     {}
-[01:26:42.481] Server  LOG     {}
-[01:26:42.593] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:26:42.639] Server  LOG     {}
-[01:26:42.707] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:26:42.846] Server  LOG     {}
-[01:26:42.927] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:27:17.912] Server  LOG     {}
-[01:29:13.444] Server  LOG     {}
-[01:29:18.672] Server  LOG     {}
-[01:29:18.792] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:29:18.824] Server  LOG     {}
-[01:29:18.895] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:29:19.009] Server  LOG     {}
-[01:29:19.074] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:34:12.801] Server  LOG     {}
-[01:34:19.259] Server  LOG     {}
-[01:34:19.424] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:34:19.772] Server  LOG     {}
-[01:34:19.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:34:20.000] Server  LOG     {}
-[01:34:20.077] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:21.208] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:21.342] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:39.802] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:39.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:45.382] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:31.885] Server  LOG     {}
+[00:23:32.109] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
