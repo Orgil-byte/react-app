@@ -502,20 +502,32 @@
     font-weight: var(--font-weight-normal);
   }
 
+  .text-\[\#9accf5\] {
+    color: #9accf5;
+  }
+
   .text-\[\#929292\] {
     color: #929292;
+  }
+
+  .text-\[\#979797\] {
+    color: #979797;
   }
 
   .text-\[\#a2d9de\] {
     color: #a2d9de;
   }
 
+  .text-\[\#f5a09a\] {
+    color: #f5a09a;
+  }
+
   .text-\[\#f9f9f9\] {
     color: #f9f9f9;
   }
 
-  .text-\[\#f57878\] {
-    color: #f57878;
+  .text-\[\#f38c85\] {
+    color: #f38c85;
   }
 
   .text-amber-200 {

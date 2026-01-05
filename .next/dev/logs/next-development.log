@@ -1,177 +1,50 @@
-[00:00:00.450] Server  LOG     ✓ Ready in 281ms
-[00:00:00.828] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.727] Server  LOG     {}
-[00:00:03.866] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:10.051] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:30.732] Server  LOG     ✓ Compiled in 89ms
-[00:01:30.792] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:30.805] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:38.417] Server  LOG     ✓ Compiled in 68ms
-[00:01:38.466] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:38.478] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:39.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:42.094] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:05.942] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:14.206] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:02:14.316] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:14.483] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:02:14.775] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:02:14.857] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:14.857] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:02:29.528] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:29.546] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:30.060] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:02:34.172] Browser LOG     Hello
-[00:02:34.319] Browser LOG     Hello
-[00:02:34.452] Browser LOG     Hello
-[00:02:34.601] Browser LOG     Hello
-[00:02:34.818] Browser LOG     Hello
-[00:03:05.219] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:03:05.293] Server  LOG     ✓ Compiled in 23ms
-[00:03:05.328] Server  LOG     {}
-[00:03:05.346] Server  LOG     {}
-[00:03:05.457] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:05.635] Browser LOG     {"props100":"Hello World!"}
-[00:03:05.635] Browser LOG     {"props100":"Hello World!"}
-[00:03:07.985] Browser LOG     Hello
-[00:03:08.168] Browser LOG     Hello
-[00:03:08.368] Browser LOG     Hello
-[00:03:08.553] Browser LOG     Hello
-[00:03:08.769] Browser LOG     Hello
-[00:03:11.995] Server  LOG     {}
-[00:03:12.077] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:12.182] Browser LOG     {"props100":"Hello World!"}
-[00:03:12.182] Browser LOG     {"props100":"Hello World!"}
-[00:03:12.203] Server  LOG     {}
-[00:03:12.264] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:12.264] Browser LOG     {"props100":"Hello World!"}
-[00:03:12.264] Browser LOG     {"props100":"Hello World!"}
-[00:04:13.953] Browser LOG     Hello
-[00:04:14.201] Browser LOG     Hello
-[00:04:14.436] Browser LOG     Hello
-[00:04:17.568] Browser LOG     Hello
-[00:04:17.835] Browser LOG     Hello
-[00:04:18.117] Browser LOG     Hello
-[00:04:18.401] Browser LOG     Hello
-[00:04:18.668] Browser LOG     Hello
-[00:04:18.934] Browser LOG     Hello
-[00:04:19.167] Browser LOG     Hello
-[00:04:19.418] Browser LOG     Hello
-[00:04:19.668] Browser LOG     Hello
-[00:06:09.864] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:33.535] Server  LOG     ✓ Compiled in 93ms
-[00:09:34.559] Browser LOG     {"props100":"Hello World!"}
-[00:09:34.559] Browser LOG     {"props100":"Hello World!"}
-[00:09:44.385] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:46.725] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:59.650] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:59.904] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:10:00.162] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:14:41.822] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:42.574] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:45.627] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:45.824] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:45.916] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:14:45.916] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:46.054] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:14:46.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:14:46.115] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:15:00.008] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:15:00.086] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:00.561] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:15:02.551] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:15:02.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:02.635] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
-  <button onClick={function handleClick} children=...>
-                  ^^^^^^^^^^^^^^^^^^^^^^
-If you need interactivity, consider converting part of this to a Client Component.
-[00:15:23.351] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:26.244] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:26.617] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:26.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:28.470] Browser LOG     Hello
-[00:17:14.519] Server  LOG     ✓ Compiled in 22ms
-[00:39:11.578] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:39:11.582] Server  LOG     ✓ Compiled in 83ms
-[00:39:11.839] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:39:13.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:39:13.958] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:43:09.695] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:43:09.770] Server  LOG     ✓ Compiled in 44ms
-[00:43:09.868] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:43:13.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:08.986] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:45:09.071] Server  LOG     ✓ Compiled in 15ms
-[00:45:09.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:12.764] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:13.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:13.657] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:20.672] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:45:20.734] Server  LOG     ✓ Compiled in 11ms
-[00:45:20.821] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:41.768] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:41.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:45:42.207] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:26.510] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[00:59:26.631] Server  LOG     ✓ Compiled in 83ms
-[00:59:26.768] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:32.956] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:33.071] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:33.229] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:33.473] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:33.671] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:33.844] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:34.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:34.775] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:59:34.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:01:17.914] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:01:17.930] Server  LOG     ✓ Compiled in 84ms
-[01:01:18.203] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:01:54.909] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./src/app/es6/page.jsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
-[01:01:55.006] Server  LOG     ✓ Compiled in 26ms
-[01:01:55.187] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:01:58.715] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:08:07.452] Server  LOG     {}
-[02:08:07.593] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:00.618] Server  LOG     ✓ Ready in 424ms
+[00:00:02.655] Server  LOG     {}
+[00:00:02.822] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:02.573] Server  LOG     {}
+[00:01:13.650] Server  LOG     {}
+[00:01:13.882] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:13.902] Server  LOG     {}
+[00:01:14.090] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:14.119] Server  LOG     {}
+[00:01:14.278] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:14.449] Server  LOG     {}
+[00:01:14.645] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:14.666] Server  LOG     {}
+[00:01:14.828] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:14.939] Server  LOG     {}
+[00:01:15.092] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:55.115] Server  LOG     {}
+[00:02:00.402] Server  LOG     {}
+[00:02:00.533] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:00.614] Server  LOG     {}
+[00:02:00.682] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:00.879] Server  LOG     {}
+[00:02:00.968] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:02.364] Server  LOG     {}
+[00:02:02.446] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:02.589] Server  LOG     {}
+[00:02:02.668] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:02.871] Server  LOG     {}
+[00:02:02.956] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:26.597] Server  LOG     {}
+[00:03:09.165] Server  LOG     {}
+[00:03:14.232] Server  LOG     {}
+[00:03:14.345] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:14.402] Server  LOG     {}
+[00:03:14.470] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:14.624] Server  LOG     {}
+[00:03:14.706] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:21.421] Server  LOG     {}
+[00:04:29.849] Server  LOG     {}
+[00:04:29.981] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:30.013] Server  LOG     {}
+[00:04:30.087] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:30.245] Server  LOG     {}
+[00:04:30.318] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:36.491] Server  LOG     {}
+[00:04:36.588] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:36.664] Server  LOG     {}
+[00:04:36.731] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:36.872] Server  LOG     {}
+[00:04:36.944] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

@@ -33,7 +33,7 @@ function hello() {
                 scores: "674",
                 reviews: "346",
                 themeColor: "bg-[#eb4034]",
-                descColor: "text-[#f57878]"
+                descColor: "text-[#f5a09a]"
             }, void 0, false, {
                 fileName: "[project]/src/app/page.jsx",
                 lineNumber: 4,
@@ -46,7 +46,7 @@ function hello() {
                 scores: "638",
                 reviews: "3298",
                 themeColor: "bg-[#2f2f2f]",
-                descColor: "text-[#929292]"
+                descColor: "text-[#979797]"
             }, void 0, false, {
                 fileName: "[project]/src/app/page.jsx",
                 lineNumber: 13,
@@ -59,7 +59,7 @@ function hello() {
                 scores: 6383,
                 reviews: 32987,
                 themeColor: "bg-[#3498eb]",
-                descColor: "text-[#a2d9de]"
+                descColor: "text-[#9accf5]"
             }, void 0, false, {
                 fileName: "[project]/src/app/page.jsx",
                 lineNumber: 22,
