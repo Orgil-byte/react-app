@@ -1,3 +1,5 @@
+"use client";
+
 export default function main() {
   return (
     <div>
@@ -6,8 +8,9 @@ export default function main() {
       <Car {...car} />
       <FruitList />
       <App />
-      <Stock stock={3} />
-      <Theme theme="white" />
+      <Button />
+      <Stock stock={-3} />
+      <Theme theme="#343434" />
     </div>
   );
 }
@@ -41,13 +44,18 @@ const FruitList = () => <div>4/ {allFruits}</div>;
 
 // **Task:** Create a file `utils.js` that exports a constant `API_URL`. Import it into a component in `App.js` and display the URL in a `<p>` tag.
 import { API_URL } from "./utils";
+import { Button } from "../components/Button";
 const App = () => <p>5/ {API_URL}</p>;
 
 // **Task:** Create a component that receives a `stock` prop (a number). If `stock > 0`, display "In Stock" in green; otherwise, display "Out of Stock" in red using inline styles.
 const Stock = (prop) =>
-  prop.stock > 0 ? <div>6/ In stock</div> : <div>6/ Not in stock</div>;
+  prop.stock > 0 ? (
+    <div className="text-green-600">6/ In stock</div>
+  ) : (
+    <div className="text-red-600">6/ Not in stock</div>
+  );
 
 // **Task:** Create a component that takes a `theme` prop (e.g., "dark" or "light"). Use a template string to set a `className` like: `className={`container-${theme}`}`.
 const Theme = ({ theme }) => (
-  <div className={`bg-${theme}`}>7/ This is the {theme} theme.</div>
+  <div className={`bg-[${theme}]`}>7/ This is the {theme} theme.</div>
 );
